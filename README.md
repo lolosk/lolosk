@@ -1,4 +1,4 @@
-[![MasterHead](https://digiday.com/wp-content/uploads/sites/3/2015/06/DonkeyKong-banner2.gif)](https://lolosk.io)
+[![MasterHead](https://digiday.com/wp-content/uploads/sites/3/2015/06/DonkeyKong-banner2.gif)](https://lolosk.github.io/portfolio-genay-lois/index.html)
 <h1 align="center">Hi 👋, I'm Loïs</h1>
 <h3 align="center">A Network and Telecommunication student passionate about dev and admin systems</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
