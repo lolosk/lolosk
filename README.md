@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lolosk.github.io/portfolio-genay-lois/index.html](https://lolosk.github.io/portfolio-genay-lois/index.html)
 
-- 💬 Ask me about **HTML,CSS,JS,Matlab**
+- 💬 Ask me about **HTML,CSS,JS,Java,Virtualization,Matlab**
 
 - 📫 How to reach me **genay.lois54@gmail.com**
 
