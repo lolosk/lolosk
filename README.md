@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/lolo_skrimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lolo_skrimer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/loïs genay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïs genay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lo%C3%AFs-genay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïs genay" height="30" width="40" /></a>
 <a href="https://instagram.com/genaylois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genaylois" height="30" width="40" /></a>
 </p>
 
