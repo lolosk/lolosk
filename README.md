@@ -1,6 +1,6 @@
 [![MasterHead](https://digiday.com/wp-content/uploads/sites/3/2015/06/DonkeyKong-banner2.gif)](https://lolosk.github.io/portfolio-genay-lois/index.html)
 <h1 align="center">Hi 👋, I'm Loïs</h1>
-<h3 align="center">A Network and Telecommunication student passionate about dev and admin systems</h3>
+<h3 align="center">A Network and Telecommunication student passionate about IT and admin systems</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolosk&label=Profile%20views&color=0e75b6&style=flat" alt="lolosk" /> </p>
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on [Automation and Dev WEB](https://lolosk.github.io/portfolio-genay-lois/index.html)
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Database Project**
 
 - 🤝 I’m looking for help with **Docker stacks**
 
@@ -19,11 +17,10 @@
 
 - 📫 How to reach me **genay.lois54@gmail.com**
 
-- ⚡ Fun fact **I started to learn more about this topic since 2023**
+- ⚡ Fun fact **I started my Network & Telecommunication degree in 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lolo_skrimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lolo_skrimer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lo%C3%AFs-genay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïs genay" height="30" width="40" /></a>
 <a href="https://instagram.com/genaylois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genaylois" height="30" width="40" /></a>
 </p>
